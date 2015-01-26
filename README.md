@@ -1,2 +1,2 @@
 # hello-world
-My first repository in my readme-edits branch
+Changing my first repository with git
