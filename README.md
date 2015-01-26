@@ -1,2 +1,2 @@
 # hello-world
-Changing my first repository with git
+Changing my first repository local since github
